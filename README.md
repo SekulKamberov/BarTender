@@ -1,2 +1,2 @@
 # BarTender
-Virtual BarTender is ASP.NET CORE 5 WEB API with Angular 11 - the Cocktail club
+Virtual BarTender is an ASP.NET CORE 5 WEB API for the Cocktail club - Angular 11 app
