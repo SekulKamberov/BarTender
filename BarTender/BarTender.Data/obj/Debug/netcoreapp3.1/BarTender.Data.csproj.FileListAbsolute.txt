@@ -1,0 +1,9 @@
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\bin\Debug\netcoreapp3.1\BarTender.Data.deps.json
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\bin\Debug\netcoreapp3.1\BarTender.Data.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\bin\Debug\netcoreapp3.1\BarTender.Data.pdb
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.csprojAssemblyReference.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.AssemblyInfoInputs.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.AssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data\obj\Debug\netcoreapp3.1\BarTender.Data.pdb

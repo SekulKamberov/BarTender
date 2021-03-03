@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{125A5BED-5864-4545-B800-5C368F9E5C73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C7948A58-05BC-480B-BDE1-A0CDF506001D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{92AC972F-F000-4B8F-9954-D52196FA9CAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{455696B5-C828-4537-8852-D409239565C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTender.Data", "BarTender.Data\BarTender.Data.csproj", "{CD997FB8-CD64-4025-B82C-816743AFEAF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTender.Data.Models", "BarTender.Data.Models\BarTender.Data.Models.csproj", "{7B74122A-5F29-40DF-A922-C4E0D802421E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTender.Data.Common", "BarTender.Data.Common\BarTender.Data.Common.csproj", "{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarTender.Web", "BarTender.Web\BarTender.Web.csproj", "{E426777C-C3B3-46BD-815B-8B8AAF0C01F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD997FB8-CD64-4025-B82C-816743AFEAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD997FB8-CD64-4025-B82C-816743AFEAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD997FB8-CD64-4025-B82C-816743AFEAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD997FB8-CD64-4025-B82C-816743AFEAF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B74122A-5F29-40DF-A922-C4E0D802421E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B74122A-5F29-40DF-A922-C4E0D802421E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B74122A-5F29-40DF-A922-C4E0D802421E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B74122A-5F29-40DF-A922-C4E0D802421E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E426777C-C3B3-46BD-815B-8B8AAF0C01F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E426777C-C3B3-46BD-815B-8B8AAF0C01F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E426777C-C3B3-46BD-815B-8B8AAF0C01F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E426777C-C3B3-46BD-815B-8B8AAF0C01F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD997FB8-CD64-4025-B82C-816743AFEAF0} = {125A5BED-5864-4545-B800-5C368F9E5C73}
+		{7B74122A-5F29-40DF-A922-C4E0D802421E} = {125A5BED-5864-4545-B800-5C368F9E5C73}
+		{E356DA90-BEF6-41F7-976D-9FEC1CE90FBB} = {125A5BED-5864-4545-B800-5C368F9E5C73}
+		{E426777C-C3B3-46BD-815B-8B8AAF0C01F1} = {455696B5-C828-4537-8852-D409239565C9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F916FC6-3C0F-4BD8-BBAD-95FE8FD314B6}
+	EndGlobalSection
+EndGlobal

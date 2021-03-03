@@ -1,0 +1,12 @@
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\bin\Debug\net5.0\BarTender.Data.Common.deps.json
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\bin\Debug\net5.0\BarTender.Data.Common.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\bin\Debug\net5.0\ref\BarTender.Data.Common.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\bin\Debug\net5.0\BarTender.Data.Common.pdb
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.csprojAssemblyReference.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.AssemblyInfoInputs.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.AssemblyInfo.cs
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.csproj.CoreCompileInputs.cache
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\ref\BarTender.Data.Common.dll
+C:\Users\sekul\OneDrive\Desktop\BarTender\BarTender\BarTender.Data.Common\obj\Debug\net5.0\BarTender.Data.Common.pdb
